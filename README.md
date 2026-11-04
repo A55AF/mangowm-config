@@ -2,6 +2,8 @@
 mangowc configuration files based on noctalia shell.
 
 ## Structure
+```
+```
 ├── conf                      Root directory for config files
 │   ├── animations.conf       Animations
 │   ├── appearance.conf       Appearance of windows (gaps, blur, shadows, etc...)
@@ -16,3 +18,5 @@ mangowc configuration files based on noctalia shell.
 │   ├── monitors.conf         Monitors setup
 │   └── rules.conf            General rules (windows, tags, etc...)
 └── config.conf
+```
+```
